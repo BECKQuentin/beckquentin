@@ -41,4 +41,16 @@
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?logo=phpstorm&logoColor=white&style=flat-square)
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white&style=flat-square)
 
+### 🧠 Pratiques & Approche de développement
+
+- 🧩 Architecture modulaire orientée services (respect des principes SOLID)
+- ⚙️ Utilisation du composant Messenger de Symfony pour gérer des files de messages, des workers, et des tâches asynchrones
+- ⏱️ Mise en place de CRONs pour automatiser certaines tâches (commandes Symfony planifiées, workers longue durée)
+- 🔄 Conception d’API RESTful documentées
+- 🗃️ Connaissances solides en gestion de base de données relationnelle (modélisation, migrations, optimisations SQL)
+- 🔐 Bonne compréhension de la sécurité : authentification (JWT / sessions), gestion des rôles, protection CSRF
+- 🚀 Préparation au déploiement via Docker + GitHub Deploy + environnement staging/production
+- 🧪 Mise en place progressive de tests automatisés (unitaires et fonctionnels)
+
+
 
