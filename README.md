@@ -1,7 +1,6 @@
 # 🧰 Main Stack
 
-### 🧱 Back-End
-
+## 🧱 Back-End
 > ![Symfony v5.4 → 7.4](https://img.shields.io/badge/Symfony%20v5.4%20%E2%86%92%207.4-000?logo=symfony&logoColor=white&style=flat-square)
 
 > ![Workflows](https://img.shields.io/badge/-Workers/Queues-555?style=flat-square)
@@ -11,7 +10,7 @@
 > ![Migrations](https://img.shields.io/badge/-Migrations-6DB33F?style=flat-square)
 > ![SQL Optimization](https://img.shields.io/badge/-SQL%20Optimization-336791?style=flat-square)
 
-### ⚙️ Deploy & Environnements
+## ⚙️ Deploy & Environnements
 > ![LAMP](https://img.shields.io/badge/-LAMP-0e76a8?style=flat-square)
 >  ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat-square)
 >  ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
@@ -23,48 +22,48 @@
 >  ![GitHub Deployment](https://img.shields.io/badge/-GitHub%20Deploy-181717?logo=github&logoColor=white&style=flat-square)
 >  ![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-F5A623?style=flat-square)
+## 🗄️ Databases
+> ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+> ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square)
+> ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-F5A623?style=flat-square)
 
-### 📊 Data & Scripts
-![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=black&style=flat-square)
-![Batch Scripts](https://img.shields.io/badge/-Batch%20Processing-555?style=flat-square)
-![Data Processing](https://img.shields.io/badge/-Data%20Handling-6E40C9?style=flat-square)
+## 📊 Data & Scripts
+> ![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=black&style=flat-square)
+> ![Batch Scripts](https://img.shields.io/badge/-Batch%20Processing-555?style=flat-square)
+> ![Data Processing](https://img.shields.io/badge/-Data%20Handling-6E40C9?style=flat-square)
 
-### 🕷️ Web Scraping & Automatisation de navigation  
-![Symfony Panther](https://img.shields.io/badge/-Panther-6C3483?logo=symfony&logoColor=white&style=flat-square)
-![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-9B59B6?logo=selenium&logoColor=white&style=flat-square)
-![Automated Browsing](https://img.shields.io/badge/-Navigation%20Automatisée-8E44AD?style=flat-square)
+## 🕷️ Web Scraping & Automatisation de navigation  
+> ![Symfony Panther](https://img.shields.io/badge/-Panther-6C3483?logo=symfony&logoColor=white&style=flat-square)
+> ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-9B59B6?logo=selenium&logoColor=white&style=flat-square)
+> ![Automated Browsing](https://img.shields.io/badge/-Navigation%20Automatisée-8E44AD?style=flat-square)
 
-### 🌐 Front-End
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+## 🌐 Front-End
+> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+> ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square)
+> ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
 
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=flat-square)
-![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat-square)
+> ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=flat-square)
+> ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat-square)
 
-![Vue.js 2](https://img.shields.io/badge/-Vue.js%202-41B883?logo=vue.js&logoColor=white&style=flat-square) 
-![Vue.js 3](https://img.shields.io/badge/-Vue.js%203-3FB27F?logo=vue.js&logoColor=white&style=flat-square)  
+> ![Vue.js 2](https://img.shields.io/badge/-Vue.js%202-41B883?logo=vue.js&logoColor=white&style=flat-square) 
+> ![Vue.js 3](https://img.shields.io/badge/-Vue.js%203-3FB27F?logo=vue.js&logoColor=white&style=flat-square)  
 
-![WebSocket](https://img.shields.io/badge/-WebSocket-35495E?style=flat-square)
+> ![WebSocket](https://img.shields.io/badge/-WebSocket-35495E?style=flat-square)
 
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Composer](https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?logo=phpstorm&logoColor=white&style=flat-square)
-![GIMP](https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white&style=flat-square)
+## 🧰 Tools
+> ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+> ![Composer](https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white&style=flat-square)
+> ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+> ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?logo=phpstorm&logoColor=white&style=flat-square)
+> ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white&style=flat-square)
 
-### 🧠 Methods
-![Clean Code](https://img.shields.io/badge/-Clean%20Code-2ECC71?style=flat-square&logo=codefactor&logoColor=white)
-![SOLID Principles](https://img.shields.io/badge/-SOLID-3498DB?style=flat-square&logo=stackexchange&logoColor=white)
-![Documentation](https://img.shields.io/badge/-Documentation-F39C12?style=flat-square&logo=read-the-docs&logoColor=white)
+## 🧠 Methods
+> ![Clean Code](https://img.shields.io/badge/-Clean%20Code-2ECC71?style=flat-square&logo=codefactor&logoColor=white)
+> ![SOLID Principles](https://img.shields.io/badge/-SOLID-3498DB?style=flat-square&logo=stackexchange&logoColor=white)
+> ![Documentation](https://img.shields.io/badge/-Documentation-F39C12?style=flat-square&logo=read-the-docs&logoColor=white)
 
 
 # 🚀 Somes Solo Side-Projects
