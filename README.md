@@ -1,6 +1,6 @@
 # 🧰 Main Stack
 
-> ## 🧱 Back-End
+### 🧱 Back-End
 
 > ![Symfony v5.4 → 7.4](https://img.shields.io/badge/Symfony%20v5.4%20%E2%86%92%207.4-000?logo=symfony&logoColor=white&style=flat-square)
 
@@ -11,17 +11,17 @@
 > ![Migrations](https://img.shields.io/badge/-Migrations-6DB33F?style=flat-square)
 > ![SQL Optimization](https://img.shields.io/badge/-SQL%20Optimization-336791?style=flat-square)
 
-> > ### ⚙️ Deploy & Environnements
-> > ![LAMP](https://img.shields.io/badge/-LAMP-0e76a8?style=flat-square)
-> > ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat-square)
-> > ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
-> > ![CRON](https://img.shields.io/badge/-CRON%20Jobs-0E76A8?style=flat-square)
-> > ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-> > ![rsync](https://img.shields.io/badge/-rsync-4EAA25?style=flat-square)
-> > ![SFTP](https://img.shields.io/badge/-SFTP-0078D4?style=flat-square)
-> > ![SSH](https://img.shields.io/badge/-SSH-333333?logo=gnome-terminal&logoColor=white&style=flat-square)
-> > ![GitHub Deployment](https://img.shields.io/badge/-GitHub%20Deploy-181717?logo=github&logoColor=white&style=flat-square)
-> > ![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square)
+### ⚙️ Deploy & Environnements
+> ![LAMP](https://img.shields.io/badge/-LAMP-0e76a8?style=flat-square)
+>  ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat-square)
+>  ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
+>  ![CRON](https://img.shields.io/badge/-CRON%20Jobs-0E76A8?style=flat-square)
+>  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+>  ![rsync](https://img.shields.io/badge/-rsync-4EAA25?style=flat-square)
+>  ![SFTP](https://img.shields.io/badge/-SFTP-0078D4?style=flat-square)
+>  ![SSH](https://img.shields.io/badge/-SSH-333333?logo=gnome-terminal&logoColor=white&style=flat-square)
+>  ![GitHub Deployment](https://img.shields.io/badge/-GitHub%20Deploy-181717?logo=github&logoColor=white&style=flat-square)
+>  ![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
