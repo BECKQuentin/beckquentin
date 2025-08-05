@@ -1,4 +1,5 @@
 # 🧰 Main Stack
+<br>
 
 ## 🧱 Back-End
 > ![Symfony v5.4 → 7.4](https://img.shields.io/badge/Symfony%20v5.4%20%E2%86%92%207.4-000?logo=symfony&logoColor=white&style=flat-square)
@@ -68,8 +69,10 @@
 <br>
 <br>
 <br>
+<br>
 
 # 🚀 Somes Solo Side-Projects
+<br>
 
 ## 🕵️ Projet : Site vitrine
 **Tech stack** : Symfony 6, Vue.js 2, LAMP  
@@ -122,8 +125,10 @@
 <br>
 <br>
 <br>
+<br>
 
 # 📊 GitHub Stats
+<br>
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=beckquentin&layout=compact&theme=tokyonight)
 ![Tes Stats GitHub](https://github-readme-stats.vercel.app/api?username=beckquentin&show_icons=true&theme=tokyonight)
