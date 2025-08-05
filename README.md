@@ -1,6 +1,5 @@
 ## 🧰 Main Stack
 
-
 ### 🧱 Back-End
 
 ![Symfony v5.4 → 7.4](https://img.shields.io/badge/Symfony%20v5.4%20%E2%86%92%207.4-000?logo=symfony&logoColor=white&style=flat-square)
@@ -68,13 +67,7 @@
 ![Documentation](https://img.shields.io/badge/-Documentation-F39C12?style=flat-square&logo=read-the-docs&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=beckquentin&layout=compact&theme=tokyonight)
-
-
-
-### 🚀 Somes Solo Side-Projects
+## 🚀 Somes Solo Side-Projects
 
 #### 🕵️ Projet : Site vitrine
 **Tech stack** : Symfony 6, Vue.js 2, LAMP  
@@ -123,4 +116,8 @@
 ⛔ Code confidentiel
 
 
+
+## 📊 GitHub Stats
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=beckquentin&layout=compact&theme=tokyonight)
 
