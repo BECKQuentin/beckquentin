@@ -1,9 +1,9 @@
 ## 🧰 Main Stack
 
 
-### 🧱 Back-End (Symfony) ![Symfony](https://img.shields.io/badge/-Symfony-000?logo=symfony&logoColor=white&style=flat-square)
+### 🧱 Back-End
 
-#### ![Symfony](https://img.shields.io/badge/-Symfony-000?logo=symfony&logoColor=white&style=flat-square) (v5.4 -> 7.4)
+![Symfony v5.4 → 7.4](https://img.shields.io/badge/Symfony%20v5.4%20%E2%86%92%207.4-000?logo=symfony&logoColor=white&style=flat-square)
 ![Workflows](https://img.shields.io/badge/-Workers/Queues-555?style=flat-square)
 ![Commands](https://img.shields.io/badge/-Commands-0E76A8?style=flat-square)  
 ![Symfony Messenger](https://img.shields.io/badge/-Symfony%20Messenger-000?logo=symfony&logoColor=white&style=flat-square)
