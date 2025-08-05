@@ -6,8 +6,8 @@
 ![Symfony v5.4 → 7.4](https://img.shields.io/badge/Symfony%20v5.4%20%E2%86%92%207.4-000?logo=symfony&logoColor=white&style=flat-square)
 
 ![Workflows](https://img.shields.io/badge/-Workers/Queues-555?style=flat-square)
-![Commands](https://img.shields.io/badge/-Commands-0E76A8?style=flat-square)  
-![Symfony Messenger](https://img.shields.io/badge/-Symfony%20Messenger-000?logo=symfony&logoColor=white&style=flat-square)
+![Commands](https://img.shields.io/badge/-Commands-0E76A8?style=flat-square)
+![Messenger](https://img.shields.io/badge/-Messenger-000?logo=symfony&logoColor=white&style=flat-square)
 ![PHPUnit](https://img.shields.io/badge/-PHPUnit-0B73A8?style=flat-square)
 ![Migrations](https://img.shields.io/badge/-Migrations-6DB33F?style=flat-square)
 ![SQL Optimization](https://img.shields.io/badge/-SQL%20Optimization-336791?style=flat-square)
@@ -30,8 +30,8 @@
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-F5A623?style=flat-square)
 
 #### 📊 Data & Scripts
+![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=black&style=flat-square)
 ![Batch Scripts](https://img.shields.io/badge/-Batch%20Processing-555?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Data Processing](https://img.shields.io/badge/-Data%20Handling-6E40C9?style=flat-square)
 
 #### 🕷️ Web Scraping & Automatisation de navigation  
@@ -83,7 +83,8 @@
 - Gestion de rooms / réservations escapes games
 - Gestion du site avec interface Admin et dashboard
 - Tableau de bord statistique avec données
-- Déploiement sur serveur privé via SSH + GitHub Actions  
+- Déploiement sur serveur privé via SSH + GitHub Actions
+  
 ⛔ Code privé
 
 ---
@@ -101,6 +102,7 @@
 - Gestion de statuts, emplacements, vetusté des objets (exposé, en restauration, en prêt, etc.)
 - Historique des modifications (traçabilité par utilisateur)
 - Export des données pour archivage ou impression et backup auto
+  
 ⛔ Code confidentiel
 
 ---
@@ -117,6 +119,7 @@
 - Envoi d’e-mails transactionnels et en masse
 - API REST sécurisée (CRUD + documents, authentification par clé)
 - Web scraping avec Panther : navigation automatisée sur des sites tiers pour extraction massive d'informations
+  
 ⛔ Code confidentiel
 
 
