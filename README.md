@@ -94,6 +94,7 @@
 - Gestion de statuts, emplacements, vetusté des objets (exposé, en restauration, en prêt, etc.)
 - Historique des modifications (traçabilité par utilisateur)
 - Export des données pour archivage ou impression et backup auto
+- Déploiement sur serveur privé via SSH + GitHub Actions
   
 ⛔ Code confidentiel
 
@@ -111,6 +112,7 @@
 - Envoi d’e-mails transactionnels et en masse
 - API REST sécurisée (CRUD + documents, authentification par clé)
 - Web scraping avec Panther : navigation automatisée sur des sites tiers pour extraction massive d'informations
+- Gestion des différents conteneurs d'applications (app, db, crawler, ...)
   
 ⛔ Code confidentiel
 
