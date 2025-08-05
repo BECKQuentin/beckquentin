@@ -4,25 +4,31 @@
 
 
 
-### 🧰 Stack & Savoir-faire
+## 🧰 Stack & Savoir-faire
 
-#### 🧱 Back-End (Symfony)![Symfony](https://img.shields.io/badge/-Symfony-000?logo=symfony&logoColor=white&style=flat-square)
-- Symfony (v5/v6) avec architecture modulaire (services, controllers, DTO, Events)
-- ![Workers](https://img.shields.io/badge/-Workers/Queues-555?style=flat-square) Workers & tâches asynchrones avec Messenger, RabbitMQ
-- Commandes personnalisées & planification via CRON
-- Authentification (JWT, rôles, guards), sécurité CSRF
-- Intégration de tests (PHPUnit, Behat)
+### 🧱 Back-End (Symfony) ![Symfony](https://img.shields.io/badge/-Symfony-000?logo=symfony&logoColor=white&style=flat-square)
+
+#### ![Symfony](https://img.shields.io/badge/-Symfony-000?logo=symfony&logoColor=white&style=flat-square) (v5.4 -> 7.4)
+- ![Workers](https://img.shields.io/badge/-Workers/Queues-555?style=flat-square) Workers & tâches asynchrones avec Messenger
+- ![CRON](https://img.shields.io/badge/-CRON%20Jobs-0E76A8?style=flat-square) Commandes personnalisées & planification via CRON
+- ![MESSENGERS](https://img.shields.io/badge/-MESSENGERS-0E73A8?style=flat-square) Commandes personnalisées & planification via CRON
+- Intégration de tests (PHPUnit)
 
 #### ⚙️ Déploiement & Environnements
-- Docker (containers, multi-stage build)
-- LAMP / Nginx / Apache
-- Déploiement SSH, GitHub Deploy, CI/CD
-- Commandes batch et automatisations pour traitement de données
+- ![LAMP](https://img.shields.io/badge/-LAMP-0e76a8?style=flat-square)
+- ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat-square)
+- ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+- ![rsync](https://img.shields.io/badge/-rsync-4EAA25?style=flat-square)
+- ![SFTP](https://img.shields.io/badge/-SFTP-0078D4?style=flat-square)
+- ![SSH](https://img.shields.io/badge/-SSH-333333?logo=gnome-terminal&logoColor=white&style=flat-square)
+- ![GitHub Deployment](https://img.shields.io/badge/-GitHub%20Deploy-181717?logo=github&logoColor=white&style=flat-square)
+- ![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square)
 
 #### 🗄️ Base de données
-- MySQL / MariaDB, Doctrine ORM
-- Migrations, Seeders, optimisation de requêtes
-- Interfaces de gestion : phpMyAdmin, Adminer
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square)
+![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-F5A623?style=flat-square)
 
 #### 📊 Data & Scripts
 - Scripts Python pour traitement de gros volumes de données (optimisation de boucles, parsing, génération de batchs)
@@ -42,19 +48,6 @@
 
 
 
-### 🧰 Compétences Techniques
-
-#### ⚙️ Environnement & Déploiement
-![LAMP](https://img.shields.io/badge/-LAMP-0e76a8?style=flat-square)
-![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat-square)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![rsync](https://img.shields.io/badge/-rsync-4EAA25?style=flat-square)
-![SFTP](https://img.shields.io/badge/-SFTP-0078D4?style=flat-square)
-![SSH](https://img.shields.io/badge/-SSH-333333?logo=gnome-terminal&logoColor=white&style=flat-square)
-![GitHub Deployment](https://img.shields.io/badge/-GitHub%20Deploy-181717?logo=github&logoColor=white&style=flat-square)
-![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square)
-
 #### 💻 Développement
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
@@ -70,9 +63,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
 
 #### 🗄️ Base de données
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-F5A623?style=flat-square)
+
 
 #### 🧰 Outils & Divers
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
