@@ -73,9 +73,9 @@
 
 
 
-### 🚀 Some Projects
+### 🚀 Somes Solo Side-Projects
 
-#### 🧾 Projet : Site vitrine
+#### 🕵️ Projet : Site vitrine
 **Tech stack** : Symfony 6, Vue.js 2, LAMP  
 **Fonctionnalités** :  
 - Présentation activité d'escape game
@@ -84,6 +84,23 @@
 - Tableau de bord statistique avec données
 - Déploiement sur serveur privé via SSH + GitHub Actions  
 ⛔ Code privé
+
+---
+
+#### 🏛️ Projet : Inventaire numérique d’objets de musée
+**Tech stack** : Symfony 7, Vue.js 3, LAMP  
+**Fonctionnalités** :
+- Gestion complète des collections d’objets (CRUD avancé : œuvres, artefacts, documents, etc.)
+- Fiches objets enrichies : images, métadonnées (époque, artiste, type, lieu, état...)
+- Upload et traitement d’images multiples par objet
+- Génération automatique de fiches PDF par objet ou par collection
+- Système d’authentification et de gestion des rôles (admin, contributeur, lecteur)
+- Interface intuitive en Vue.js pour la consultation, la recherche et l’édition
+- Moteur de recherche multicritère (période, type, mot-clé, etc.)
+- Gestion de statuts, emplacements, vetusté des objets (exposé, en restauration, en prêt, etc.)
+- Historique des modifications (traçabilité par utilisateur)
+- Export des données pour archivage ou impression et backup auto
+⛔ Code confidentiel
 
 ---
 
