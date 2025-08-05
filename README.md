@@ -41,6 +41,14 @@
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?logo=phpstorm&logoColor=white&style=flat-square)
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white&style=flat-square)
 
+#### 🧠 Backend Avancé
+![Symfony Messenger](https://img.shields.io/badge/-Symfony%20Messenger-000?logo=symfony&logoColor=white&style=flat-square)
+![Workers](https://img.shields.io/badge/-Workers/Queues-555?style=flat-square)
+![CRON](https://img.shields.io/badge/-CRON%20Jobs-0E76A8?style=flat-square)
+![Doctrine ORM](https://img.shields.io/badge/-Doctrine%20ORM-59666C?style=flat-square)
+![Migrations](https://img.shields.io/badge/-Migrations-6DB33F?style=flat-square)
+![SQL Optimization](https://img.shields.io/badge/-SQL%20Optimization-336791?style=flat-square)
+
 ### 🧠 Pratiques & Approche de développement
 
 - 🧩 Architecture modulaire orientée services (respect des principes SOLID)
