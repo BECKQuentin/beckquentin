@@ -65,9 +65,9 @@
 > ![SOLID Principles](https://img.shields.io/badge/-SOLID-3498DB?style=flat-square&logo=stackexchange&logoColor=white)
 > ![Documentation](https://img.shields.io/badge/-Documentation-F39C12?style=flat-square&logo=read-the-docs&logoColor=white)
 
-
-
-
+<br>
+<br>
+<br>
 
 # 🚀 Somes Solo Side-Projects
 
@@ -119,7 +119,9 @@
   
 ⛔ Code confidentiel
 
-
+<br>
+<br>
+<br>
 
 # 📊 GitHub Stats
 
