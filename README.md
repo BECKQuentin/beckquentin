@@ -58,7 +58,7 @@
 > ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 > ![Composer](https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white&style=flat-square)
 > ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-> ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?logo=phpstorm&logoColor=white&style=flat-square)
+> ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white&style=flat-square)
 > ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white&style=flat-square)
 
 ## 🧠 Methods
